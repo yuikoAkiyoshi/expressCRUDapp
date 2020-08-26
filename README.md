@@ -1,0 +1,2 @@
+# expressCRUDapp
+expressで作成した基本的なCRUDアプリです
